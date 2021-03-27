@@ -1,7 +1,13 @@
-# C++ 0-1 Knapsack Problem (Best First Search)
 
 [![Twitter Badge](https://img.shields.io/badge/chat-twitter-blue.svg)](https://twitter.com/ArrayLikeObj)
 [![GitHub license](https://img.shields.io/github/license/ethanny2/knapsack-alogorithm-cpp)](https://github.com/ethanny2/knapsack-alogorithm-cpp)
+
+# C++ 0-1 Knapsack Problem (Best First Search)
+
+<p align="center">
+  <img width="460" height="300" src="https://image.slidesharecdn.com/knapsackproblemusingdynamicprogramming-161012161251/95/knapsack-problem-using-dynamic-programming-2-638.jpg?cb=1476288784">
+</p>
+
 ## Requirements
 Requires some form of C++ compliation; preferably g++.
 This uses newer features so it is compiled with the C++ 11 flag.
